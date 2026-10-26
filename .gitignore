@@ -1,0 +1,5 @@
+node_modules/
+.tmp-test-*/
+events.json
+*.tmp
+.DS_Store
