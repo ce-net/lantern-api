@@ -1,0 +1,14 @@
+{
+  "name": "lantern-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lantern backend: neighbourhood events API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/server.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
